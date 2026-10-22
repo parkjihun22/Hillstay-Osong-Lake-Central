@@ -61,7 +61,7 @@ const Brand2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/Brand/video"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Brand/video"
   />
 
   <meta name="robots" content="index,follow" />
@@ -82,12 +82,12 @@ const Brand2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/Brand/video"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Brand/video"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/images/og/main.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/images/og/main.jpg"
   />
 
   {/* Twitter */}
@@ -105,7 +105,7 @@ const Brand2 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.ianflexity.co.kr/images/og/main.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/images/og/main.jpg"
   />
 </Helmet>
 

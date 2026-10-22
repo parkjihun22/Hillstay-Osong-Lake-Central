@@ -61,7 +61,7 @@ const Emodel = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/FloorPlan/Emodel"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/FloorPlan/Emodel"
   />
 
   <meta property="og:type" content="website" />
@@ -71,8 +71,8 @@ const Emodel = () => {
     property="og:description"
     content="힐스테이트 오송레이크센트럴 E모델하우스에서 오피스텔의 실내 구조와 공간 구성, 생활 동선을 온라인으로 살펴보세요."
   />
-  <meta property="og:url" content="https://www.ianflexity.co.kr/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://www.ianflexity.co.kr/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -82,28 +82,28 @@ const Emodel = () => {
     name="twitter:description"
     content="힐스테이트 오송레이크센트럴의 실내 공간과 생활 동선을 E모델하우스로 만나보세요."
   />
-  <meta name="twitter:image" content="https://www.ianflexity.co.kr/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://www.ianflexity.co.kr/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/FloorPlan/Emodel" />
 
   <script type="application/ld+json">
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "힐스테이트 오송레이크센트럴 - E모델하우스",
-      "url": "https://www.ianflexity.co.kr/FloorPlan/Emodel",
+      "url": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/FloorPlan/Emodel",
       "description":
         "힐스테이트 오송레이크센트럴 E모델하우스 페이지입니다. 청주 오송읍 연제리에 계획된 브랜드 오피스텔의 실내 구조와 공간 구성, 생활 동선을 온라인으로 안내합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.ianflexity.co.kr/img/og/emodel.jpg",
+        "contentUrl": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.ianflexity.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "E모델하우스", "item": "https://www.ianflexity.co.kr/FloorPlan/Emodel" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "E모델하우스", "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/FloorPlan/Emodel" }
         ]
       }
     })}

@@ -62,7 +62,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/LocationEnvironment/primium"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/primium"
   />
 
   <meta name="robots" content="index,follow" />

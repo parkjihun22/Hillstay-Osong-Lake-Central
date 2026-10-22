@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "힐스테이트 오송레이크센트럴", url: "https://www.ianflexity.co.kr/" },
+  { name: "힐스테이트 오송레이크센트럴", url: "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/" },
 ];
 
 const Footer = () => {

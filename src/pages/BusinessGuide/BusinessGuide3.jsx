@@ -82,7 +82,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/BusinessGuide/documents"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -101,12 +101,12 @@ const BusinessGuide2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/BusinessGuide/documents"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/documents"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/Main1.png"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Main1.png"
   />
 </Helmet>
 

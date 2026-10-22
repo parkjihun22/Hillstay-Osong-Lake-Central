@@ -75,7 +75,7 @@ const BusinessGuide1 = () => {
 
 <link
   rel="canonical"
-  href="https://www.ianflexity.co.kr/BusinessGuide/intro"
+  href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/intro"
 />
 
 <meta property="og:type" content="website" />
@@ -93,12 +93,12 @@ const BusinessGuide1 = () => {
 
 <meta
   property="og:url"
-  content="https://www.ianflexity.co.kr/BusinessGuide/intro"
+  content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/intro"
 />
 
 <meta
   property="og:image"
-  content="https://www.ianflexity.co.kr/img/og/business.jpg"
+  content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/business.jpg"
 />
 
 <meta property="og:image:width" content="1200" />
@@ -118,7 +118,7 @@ const BusinessGuide1 = () => {
 
 <meta
   name="twitter:image"
-  content="https://www.ianflexity.co.kr/img/og/business.jpg"
+  content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/business.jpg"
 />
 
 <script type="application/ld+json">
@@ -128,13 +128,13 @@ const BusinessGuide1 = () => {
 
   "name": "힐스테이트 오송레이크센트럴 사업안내",
 
-  "url": "https://www.ianflexity.co.kr/BusinessGuide/intro",
+  "url": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/intro",
 
   "description": "힐스테이트 오송레이크센트럴은 충북 청주시 흥덕구 오송읍 연제리에 계획된 브랜드 오피스텔입니다. 사업개요와 공급타입, 오송역·오송호수공원 생활권을 안내합니다.",
 
   "primaryImageOfPage": {
     "@type": "ImageObject",
-    "contentUrl": "https://www.ianflexity.co.kr/img/og/business.jpg",
+    "contentUrl": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/business.jpg",
     "width": 1200,
     "height": 630
   },
@@ -146,13 +146,13 @@ const BusinessGuide1 = () => {
         "@type": "ListItem",
         "position": 1,
         "name": "홈",
-        "item": "https://www.ianflexity.co.kr/"
+        "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "사업안내",
-        "item": "https://www.ianflexity.co.kr/BusinessGuide/intro"
+        "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/intro"
       }
     ]
   }

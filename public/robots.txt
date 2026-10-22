@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ianflexity.co.kr/sitemap.xml
+Sitemap: https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/sitemap.xml

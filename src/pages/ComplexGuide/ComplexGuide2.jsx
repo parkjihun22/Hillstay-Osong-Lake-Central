@@ -65,7 +65,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/ComplexGuide/detailintro"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/detailintro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -86,12 +86,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/ComplexGuide/detailintro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/detailintro"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/img/og/complex.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/complex.jpg"
   />
 </Helmet>
 

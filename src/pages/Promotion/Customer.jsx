@@ -85,7 +85,7 @@ export default function Customer() {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/Promotion/Customer"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Promotion/Customer"
   />
 
   {/* Open Graph */}
@@ -104,12 +104,12 @@ export default function Customer() {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/Promotion/Customer"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Promotion/Customer"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/img/og/customer.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/customer.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -130,12 +130,12 @@ export default function Customer() {
 
   <meta
     name="twitter:image"
-    content="https://www.ianflexity.co.kr/img/og/customer.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/customer.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.ianflexity.co.kr/Promotion/Customer"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Promotion/Customer"
   />
 
   {/* JSON-LD */}
@@ -146,14 +146,14 @@ export default function Customer() {
 
       "name": "힐스테이트 오송레이크센트럴 - 관심고객등록",
 
-      "url": "https://www.ianflexity.co.kr/Promotion/Customer",
+      "url": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Promotion/Customer",
 
       "description":
         "힐스테이트 오송레이크센트럴 관심고객등록 페이지입니다. 청주 오송읍 연제리에 계획된 브랜드 오피스텔의 공급정보와 분양일정, 타입 및 방문 관련 상담을 신청할 수 있습니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.ianflexity.co.kr/img/og/customer.jpg",
+        "contentUrl": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/customer.jpg",
         "width": 1200,
         "height": 630
       },
@@ -165,13 +165,13 @@ export default function Customer() {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.ianflexity.co.kr/"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "관심고객등록",
-            "item": "https://www.ianflexity.co.kr/Promotion/Customer"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Promotion/Customer"
           }
         ]
       }

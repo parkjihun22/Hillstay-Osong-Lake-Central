@@ -65,7 +65,7 @@ const Brand1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/Brand/intro"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Brand/intro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -85,12 +85,12 @@ const Brand1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/Brand/intro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/Brand/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/images/og/main.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/images/og/main.jpg"
   />
 </Helmet>
 

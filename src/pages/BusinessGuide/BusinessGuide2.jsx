@@ -67,7 +67,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/BusinessGuide/plan"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/BusinessGuide/plan"
   />
 
   <meta name="robots" content="index,follow" />

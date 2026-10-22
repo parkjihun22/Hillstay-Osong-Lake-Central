@@ -110,7 +110,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/LocationEnvironment/intro"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/intro"
   />
 
   {/* Open Graph */}
@@ -129,12 +129,12 @@ const LocationEnvironment1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/LocationEnvironment/intro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/img/og/location.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/location.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -155,12 +155,12 @@ const LocationEnvironment1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.ianflexity.co.kr/img/og/location.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/location.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.ianflexity.co.kr/LocationEnvironment/intro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/intro"
   />
 
   {/* JSON-LD */}
@@ -171,14 +171,14 @@ const LocationEnvironment1 = () => {
 
       "name": "힐스테이트 오송레이크센트럴 - 입지환경",
 
-      "url": "https://www.ianflexity.co.kr/LocationEnvironment/intro",
+      "url": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/intro",
 
       "description":
         "힐스테이트 오송레이크센트럴 입지환경 페이지입니다. 청주 오송읍 연제리를 중심으로 오송역의 광역교통, 오송호수공원의 자연환경, 오송생명과학단지와 보건의료행정타운 등 주변 산업·생활 기반을 안내합니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.ianflexity.co.kr/img/og/location.jpg",
+        "contentUrl": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
@@ -190,13 +190,13 @@ const LocationEnvironment1 = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.ianflexity.co.kr/"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "입지환경",
-            "item": "https://www.ianflexity.co.kr/LocationEnvironment/intro"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/LocationEnvironment/intro"
           }
         ]
       }

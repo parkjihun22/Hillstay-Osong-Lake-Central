@@ -71,7 +71,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.ianflexity.co.kr/ComplexGuide/intro"
+    href="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/intro"
   />
 
   {/* Open Graph */}
@@ -90,12 +90,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.ianflexity.co.kr/ComplexGuide/intro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.ianflexity.co.kr/img/og/complex.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/complex.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -116,12 +116,12 @@ const ComplexGuide1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.ianflexity.co.kr/img/og/complex.jpg"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/complex.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.ianflexity.co.kr/ComplexGuide/intro"
+    content="https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/intro"
   />
 
   {/* JSON-LD */}
@@ -132,14 +132,14 @@ const ComplexGuide1 = () => {
 
       "name": "힐스테이트 오송레이크센트럴 - 단지배치도",
 
-      "url": "https://www.ianflexity.co.kr/ComplexGuide/intro",
+      "url": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/intro",
 
       "description":
         "힐스테이트 오송레이크센트럴 단지배치도 페이지입니다. 청주 오송읍 연제리에 계획된 오피스텔의 동별 배치와 단지 구성, 출입구 및 보행 동선을 안내합니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.ianflexity.co.kr/img/og/complex.jpg",
+        "contentUrl": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
@@ -151,13 +151,13 @@ const ComplexGuide1 = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.ianflexity.co.kr/"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "단지배치도",
-            "item": "https://www.ianflexity.co.kr/ComplexGuide/intro"
+            "item": "https://xn--3l2blb738brlax5bvxkgrcda877r35bp3fga322n.kr/ComplexGuide/intro"
           }
         ]
       }
